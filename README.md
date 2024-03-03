@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Thumilan M</h1>
 <h3 align="center">Aspiring Data Analysis from India</h3>
 
-<div> img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOLOrjkaPNMHSdc9xU6UuyzPlO-KqkNcN3Q&usqp=CAU"</div>
+ <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQHZSb3OXp0RGQ/article-cover_image-shrink_720_1280/0/1666602850269?e=2147483647&v=beta&t=ZqZgp3CIKESBPRb840PIbi9OaUkrATFuIEX8H2Mdg9M">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thumilan04&label=Profile%20views&color=0e75b6&style=flat" alt="thumilan04" /> </p>
 
